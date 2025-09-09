@@ -47,7 +47,6 @@ release.properties
 *.zip
 *.png
 *.zip
-*.txt
 
 # Log files
 *.log
