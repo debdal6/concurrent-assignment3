@@ -1,0 +1,57 @@
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Virtual Machine crash logs
+hs_err_pid*
+replay_pid*
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+*.iws
+.settings/
+.classpath
+.project
+
+# Build directories
+target/
+build/
+out/
+bin/
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# misc files
+*.pdf
+*.xls
+*.zip
+*.png
+*.zip
+*.txt
+
+# Log files
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
